@@ -109,12 +109,12 @@ a {
 /* Main Section Stling */
 
 #main {
-    padding: 10px 0;
+    padding: 80px 0;
      background: linear-gradient(45deg, #1abc9c,#2ecc71);
 }
 
 #main h1 {
-    margin-bottom: 8px;
+    margin-bottom: 2px;
     font-size: 32px;
     font-family: 'Open Sans', arial, sans-serif;
     font-weight: 400;
@@ -122,7 +122,7 @@ a {
 
 #main hr {
     width: 20%;
-    margin: 0 auto 26px auto;
+    margin: 0 auto 20px auto;
     height: 4px;
     background: #2c2c2c;
     border: none;
