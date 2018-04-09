@@ -144,15 +144,16 @@ a {
 
 .feature article {
     text-align: center;
-    margin: 8% auto;
-    max-width: 1200px;
+    margin: 10% auto;
+    max-width: 900px;
 }
 
 .feature article p {
-    font-family: "Times New Roman";
+    font-family: "Georgia";
     font-size: 1.5em;
-    line-height: 1;
+    line-height: 1.2;
     color: #000000;
+    margin-bottom: 5%;
 }
 
 @media screen and (min-width: 810px) {
